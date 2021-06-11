@@ -1,2 +1,2 @@
 # hello-world
-my git tutorial by git-hub
+my git tutorial by git-hub website
